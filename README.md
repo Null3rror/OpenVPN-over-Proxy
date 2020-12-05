@@ -3,7 +3,7 @@
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/12Cb7uJANVWfPNRvS2H4PCq2zGVxPbx3WS)](https://en.cryptobadges.io/donate/12Cb7uJANVWfPNRvS2H4PCq2zGVxPbx3WS)
 
 ## OpenVPN-over-Proxy
-OpenVPN over Proxy[road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu.
+OpenVPN over Proxy [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu.
 
 This script will let you set up your own VPN server HTTP proxy so you can bypass DPIs in no more than a minute, even if you haven't used OpenVPN or HTTP proxies before. It has been designed to be as unobtrusive and universal as possible.
 
