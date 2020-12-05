@@ -1,5 +1,5 @@
 ![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Null3rror.openvpnoverhttp-install)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Null3rror.OpenVPN-over-Proxy)
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/12Cb7uJANVWfPNRvS2H4PCq2zGVxPbx3WS)](https://en.cryptobadges.io/donate/12Cb7uJANVWfPNRvS2H4PCq2zGVxPbx3WS)
 
 ## OpenVPN-over-Proxy
