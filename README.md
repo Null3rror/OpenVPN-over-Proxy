@@ -28,6 +28,6 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 You can [Say Thanks](https://saythanks.io/to/null3rr0r%40protonmail.com) if you want.
 
 ## Donation
-You can donate with [Bitcoin](https://pastebin.com/raw/GtYpY1re) if you want.
+You can donate with [USDT/ETH/BTC](https://pastebin.com/raw/f5zMpfZu) if you want.
 
 
