@@ -1,6 +1,6 @@
 ![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Null3rror.OpenVPN-over-Proxy)
-[![Donate with Bitcoin](https://img.shields.io/badge/USDT-Donate-green)](https://link.trustwallet.com/send?coin=195&address=TPvgfu7hqG6cQhLBRcoBZWssrZx2D1MDWV&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)
+[![Donate with Bitcoin](https://img.shields.io/badge/USDT-Donate-green)](https://pastebin.com/raw/f5zMpfZu)
 
 ## OpenVPN-over-Proxy
 OpenVPN over Proxy [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu.
