@@ -22,7 +22,7 @@ sudo wget https://raw.githubusercontent.com/Null3rror/OpenVPN-over-Proxy/master/
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN over HTTP.
 
 ## Quick look on usage
-![Alt Text](https://github.com/Null3rror/Datasets-Placeholder/blob/master/test.gif)
+![Alt Text](https://github.com/Null3rror/OpenVPN-over-Proxy/blob/main/Usage.mp4)
 
 ## Say Thanks
 You can [Say Thanks](https://saythanks.io/to/null3rr0r%40protonmail.com) if you want.
