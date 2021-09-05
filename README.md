@@ -9,6 +9,11 @@ This script will let you set up your own VPN server HTTP proxy so you can bypass
 
 If you choose to install HTTP proxy, it'll setup a Squid proxy. 
 
+## Youtube
+Click on the below video for more info on installation & usage.<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e3hIQhJrJGc/0.jpg)](https://www.youtube.com/watch?v=e3hIQhJrJGc)
+
+
 ## Fork
 This script is based on the great work of [Nyr and its contributors](https://github.com/Nyr/openvpn-install).
 
