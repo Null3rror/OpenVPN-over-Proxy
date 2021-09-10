@@ -526,9 +526,9 @@ verb 3" >> /etc/openvpn/server/client-common.txt
 	new_client
 	echo
 	echo "Finished!"
-	if [[ "$setupHTTPProxy" = "true" && "$os" = "ubuntu" ]]; then
+	if [[ "$setupHTTPProxy" = "true" && "$os" != "none" ]]; then
 		apt-get update
-		apt-get install -y squid
+		apt-get install squid -y
 		cat /dev/null > /etc/squid/whitelistIPs.txt
 		cat /dev/null > /etc/squid/blacklistIPs.txt
 		cp /etc/squid/squid.conf /etc/squid/squid.conf.orig
