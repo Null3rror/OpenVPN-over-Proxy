@@ -411,6 +411,7 @@ server 10.8.0.0 255.255.255.0" > /etc/openvpn/server/server.conf
 			echo 'push "dhcp-option DNS 94.140.15.15"' >> /etc/openvpn/server/server.conf
 		;;
 	esac
+	echo 'push "block-outside-dns"' >> /etc/openvpn/server/server.conf
 	echo "keepalive 10 120
 cipher AES-256-CBC
 user nobody
